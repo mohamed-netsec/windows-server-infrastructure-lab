@@ -23,6 +23,8 @@ The lab simulates a dual-headquarters enterprise linking two distinct Active Dir
 ![photo](./4.png)
 
 
+
+
 ### Branch Domain (CONS-BRA.DZ)
 * Domain Controller: BRA-DC02
 * Joined Workstations: client2 (joined to CONS-BRA.DZ domain; placed in BRA-COMPUTERS OU)
