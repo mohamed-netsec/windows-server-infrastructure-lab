@@ -61,12 +61,12 @@ The lab simulates a dual-headquarters enterprise linking two distinct Active Dir
 
 
 
-## Group Policy Objects (GPOs) Security Hardening
+## Group Policy Objects (GPOs) Security Hardening:
 
 
 ---
 
-### Implemented Policies
+### Implemented Policies:
 
 #### 1. Restrict Control Panel Access (Restrict Control Panel)
 * Objective: Prevent non-administrative users from modifying system configurations and settings to maintain system integrity.
@@ -76,7 +76,7 @@ The lab simulates a dual-headquarters enterprise linking two distinct Active Dir
 * Applied Settings:
   * Prohibit access to Control Panel and PC settings: Enabled
 
-#### 2. Block USB Removable Storage (Ban USB)
+#### 2. Block USB Removable Storage (Ban USB):
 * Objective: Mitigate data exfiltration (Data Loss Prevention) and protect domain endpoints against malicious USB vector threats.
 * GPO Level: Linked directly to ALG-HQ.DZ domain.
 * Configuration Path:
@@ -94,4 +94,4 @@ To force immediate policy updates on client machines (e.g., DESKTOP-CFHGRMQ), ru
 `cmd
 gpupdate /force
 
-![photo](./gpo.png)
+
