@@ -85,7 +85,7 @@ The lab simulates a dual-headquarters enterprise linking two distinct Active Dir
   * Removable Disks: Deny read access: Enabled
   * Removable Disks: Deny write access: Enabled
 
-
+![photo](./gpo1.png)
 
 ---
 
