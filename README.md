@@ -94,4 +94,4 @@ To force immediate policy updates on client machines (e.g., DESKTOP-CFHGRMQ), ru
 `cmd
 gpupdate /force
 
-
+![photo](./gpo.png)
