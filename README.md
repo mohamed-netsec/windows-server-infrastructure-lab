@@ -20,7 +20,7 @@ The lab simulates a dual-headquarters enterprise linking two distinct Active Dir
 * Security Groups: it-admins, sec-hq-finance, sec-hq-users
 * User Accounts: hq-admin, hq-user1
 
-![photo](./4.png)
+![photo](./adds.png)
 
 
 
